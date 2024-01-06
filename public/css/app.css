@@ -1,0 +1,67 @@
+* {
+    margin-left: 5px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #c3e0f4;
+}
+
+.topnav {
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #333;
+    text-align: center;
+    margin-top: 7px;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    text-decoration: underline;
+    color: #333;
+}
+
+.topnav a.active {
+    padding-bottom: 5px;
+    font-weight:bolder;
+}
+
+.logout-form {
+    float: right;
+    margin-top: 7px;
+    margin-right: 10px;
+}
+
+.logout-button {
+    background-color: #656763;
+    border: none;
+    color: whitesmoke;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.logout-button:hover {
+    background-color: whitesmoke;
+    color: #656763;
+}
+
+.catalog-table {
+    background-color: #333;
+}
+
+.catalog-title {
+    background-color: #7a99c0;
+}
+
+.table-fill {
+    background-color: #a0cfea;
+}
