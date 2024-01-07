@@ -91,6 +91,7 @@
         <input name="loginpassword" type="password" placeholder="password">
         <button>Login</button>
     </form>
+    <a href="https://docs.google.com/document/d/14dS9olZS7q1fkAUq0E8Pqp7Usa2NZisPtoUYk8IZ1cE/edit?usp=sharing" target="_blank">Link to Google Docs</a>
     @endauth
 </body>
 
